@@ -1,5 +1,7 @@
 # Viga biapoyada — ejemplo didáctico
 
+**Francisco Goitia** · [francisco.goitia@upc.edu](mailto:francisco.goitia@upc.edu)
+
 Calculadora interactiva de una viga simplemente apoyada (articulación a la izquierda y apoyo móvil a la derecha), sometida a una carga vertical uniformemente distribuida. Los diagramas se actualizan al modificar los datos.
 
 ### [Abrir el ejemplo interactivo](https://fragoi95.github.io/viga_biapoyada_ejemplo_didactico/)
