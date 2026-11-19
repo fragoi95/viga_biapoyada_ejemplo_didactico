@@ -4,9 +4,11 @@
 
 Calculadora interactiva de una viga simplemente apoyada (articulación a la izquierda y apoyo móvil a la derecha), sometida a una carga vertical uniformemente distribuida. Los diagramas se actualizan al modificar los datos.
 
-### [Abrir el ejemplo interactivo](https://fragoi95.github.io/viga_biapoyada_ejemplo_didactico/)
 
-No requiere instalación ni bibliotecas externas. También se puede descargar el archivo [`index.html`](./index.html) y abrirlo directamente en el navegador.
+## Aplicación oline
+
+https://fragoi95.github.io/viga_biapoyada_ejemplo_didactico/
+
 
 ## Qué permite modificar
 
@@ -51,9 +53,4 @@ Modelo de Euler–Bernoulli, con comportamiento elástico lineal, sección const
 
 La carga `q` debe incluir el peso propio si corresponde. La deformada se amplifica gráficamente para facilitar su visualización. Es una herramienta para docencia y comprobaciones preliminares, no una verificación normativa de resistencia o servicio.
 
-## Publicación con GitHub Pages
 
-En **Settings → Pages**, seleccionar **Deploy from a branch**, rama **main** y carpeta **/ (root)**. Una vez activado el despliegue, el enlace del inicio abrirá la calculadora.
-
----
-Ejemplo didáctico de Mecánica de Materiales e Ingeniería Estructural.
